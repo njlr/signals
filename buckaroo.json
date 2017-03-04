@@ -1,0 +1,12 @@
+{
+  "name": "boost-signals",
+  "dependencies": {
+    "boost-type-traits": "1.63.0",
+    "boost-core": "1.63.0",
+    "boost-smart-ptr": "1.63.0",
+    "boost-any": "1.63.0",
+    "boost-function": "1.63.0",
+    "boost-bind": "1.63.0",
+    "boost-iterator": "1.63.0"
+  }
+}
